@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Request Demo - Tidy',
-  description: 'Page description',
+  title: 'Request Demo - The Blissful Moments',
+  description: 'Request a demostration of the website',
 }
 
 import Link from 'next/link'
