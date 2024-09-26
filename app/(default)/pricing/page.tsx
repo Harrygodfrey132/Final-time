@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Pricing - The Blissful Moments',
-  description: 'Page description',
+  description: 'Explore the different products we have',
 }
 
 import Hero from '@/components/hero-pricing'
